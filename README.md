@@ -10,7 +10,7 @@
   </a>
   <!-- Remplacez le lien # par l'URL de votre portfolio une fois hébergé -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF9800?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+    <img src="[https://img.shields.io/badge/Portfolio-FF9800?style=for-the-badge&logo=Web&logoColor=white](https://ahmedfakhfakh.netlify.app/index-en)" alt="Portfolio" />
   </a>
   <a href="mailto:fakhfakhahmed45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
