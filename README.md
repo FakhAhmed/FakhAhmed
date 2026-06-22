@@ -8,9 +8,8 @@
   <a href="https://www.linkedin.com/in/afakhfakh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Remplacez le lien # par l'URL de votre portfolio une fois hébergé -->
   <a href="#" target="_blank">
-    <img src="[https://img.shields.io/badge/Portfolio-FF9800?style=for-the-badge&logo=Web&logoColor=white](https://ahmedfakhfakh.netlify.app/index-en)" alt="Portfolio" />
+    <img src="https://ahmedfakhfakh.netlify.app/index-en=white" alt="Portfolio" />
   </a>
   <a href="mailto:fakhfakhahmed45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -53,5 +52,3 @@ Ambitious and passionate about Data and Artificial Intelligence, I am currently 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=flat-square&color=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
----
